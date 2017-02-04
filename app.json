@@ -3,7 +3,7 @@
   "name": {
     "en": "someZwave"
   },
-  "version": "1.13.17",
+  "version": "1.13.18",
   "compatibility": ">=0.10.7",
   "category": [
     "appliances",
