@@ -17,6 +17,11 @@ there is an action flow card created for if temperature goes below a certain val
 
 20-01-2017 first appstore admittance
 
+29-09-2018	added  driver EZ-Motion+ 3 in 1    Express Control        driver a lookalike HMS100 only device id 2 not 1 
+			this was a app from Konrad Walsh but i dont see it anymore in the appstore or on his github repositories
+		    added github bug link 	
+			added community forum link
+
 
 [![Paypal donate][pp-donate-image]][pp-donate-link]
 [pp-donate-link]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=42UGL52J4KPZE
@@ -27,7 +32,7 @@ there is an action flow card created for if temperature goes below a certain val
 
 
 
-Copyright (c) 2017 Jilles Miedema
+Copyright (c) 2018 Jilles Miedema
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 

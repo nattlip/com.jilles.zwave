@@ -270,7 +270,7 @@ module.exports = new ZwaveDriver (path.basename(__dirname), {
                     'getOnWakeUp': true,
 
 
-                    'pollInterval': 'poll_interval'
+                    'pollInterval': "poll_interval"
 
                 },   // end temp
 
